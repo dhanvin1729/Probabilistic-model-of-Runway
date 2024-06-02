@@ -9,6 +9,9 @@ The blue filled rectangle represents the parking or dispersal area alongside the
 
 The output in the GUI shows the no of successful submunitions, the lengths of vertical strips remaining after each missile, and the total number of missiles required in each runtime for the runway to be destroyed completely along its width.
 
-There is also a provision to generate the graphs of the approximate number of missiles required to destroy the runway completely for missiles of varying CEPs.
+There is also a provision to generate the graphs of the approximate number of missiles required to destroy the runway completely for missiles of varying CEPs. The graphs give the user an idea of the probability of the runway being fully cut based on the number of missiles of a certain CEP landing on the runway.
+
+
+
 ![PHOTO-2024-04-17-22-16-59](https://github.com/dhanvin1729/Probabilistic-model-of-Runway/assets/137248906/a8d22089-9966-40ba-a928-a923e5af5c84)
 
