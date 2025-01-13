@@ -1,4 +1,4 @@
-# Probabilistic-model-of-Runway
+# Damage Assessment of Ballistic Missiles
 This project was given to us by Group Captain Vinay Bhardwaj (Indian Air Force) and was completed under the guidance and supervision of Prof. Kuldeep Singh and Prof. Rajendra Mitharwal of MNIT Jaipur.
 
 The problem statement of the project was to simulate missiles of certain specifications landing on a runway of given dimensions. This is a probabilistic model that uses the Gaussian probability density function to simulate the random nature of missiles and their predicted landing points on the runway.
